@@ -113,7 +113,7 @@ Conecte-se comigo!
 <img 
     align="left" 
     alt="GitHub Stats" 
-    width="50%"
+    width="48%"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenMSantiago&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
 />
