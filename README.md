@@ -106,7 +106,7 @@ Conecte-se comigo!
 <img 
     align="left" 
     alt="GitHub Stats" 
-    width="42%"  
+    width="48%"  
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EllenMSantiago&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
