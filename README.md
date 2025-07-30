@@ -3,11 +3,13 @@
 **`Desenvolvedora RPA Jr`**
 **`Analista Dados Jr`**
 
-Olá! sou a Ellen Santiago
-Estou em transição de carreira para tecnologia, um universo que sempre me encantou e onde decidi construir um novo futuro.
-Atualmente, curso Análise e Desenvolvimento de Sistemas pela Descomplica. Tenho formação em Análise de Dados com Python pelo bootcamp da {reprograma} e em Desenvolvimento Backend com JavaScript pela Programaria.
-Atuei por 9 meses como desenvolvedora RPA (UiPath), criando robôs para automatização de processos internos. Essa experiência me proporcionou contato direto com desafios reais de desenvolvimento e reforçou minha paixão por soluções tecnológicas que otimizam o dia a dia das pessoas e empresas.
-Sou curiosa, apaixonada por tecnologia e aprendizado contínuo. Estou sempre em busca de evoluir e contribuir com projetos que gerem impacto positivo.
+Olá! Sou a Ellen Santiago.
+Estou em transição de carreira para tecnologia, atualmente curso Análise e Desenvolvimento de Sistemas pela Descomplica.
+Tenho formação em Análise de Dados com Python pelo bootcamp da {reprograma} e em Desenvolvimento Backend com JavaScript pela Programaria.
+Atuei por 9 meses como desenvolvedora RPA (UiPath), criando robôs para automatização de processos internos. 
+Essa experiência me proporcionou contato direto com desafios reais de desenvolvimento e reforçou minha paixão por soluções tecnológicas que otimizam o dia a dia das pessoas e empresas.
+Sou curiosa, apaixonada por tecnologia e aprendizado contínuo. 
+Estou sempre em busca de evoluir e contribuir com projetos que gerem impacto positivo.
 
 🚀 Em constante desenvolvimento. 
 
